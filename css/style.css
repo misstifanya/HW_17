@@ -1,0 +1,73 @@
+
+nav {
+    background-color: #f4d4d5;
+    color: #403930;
+    padding: 20px;
+    text-align: left;
+    font-family: 'Arial', 'Helvetica Neuel', 'Helvetica', 'sans-serif';
+    margin-bottom: 0px;
+    font-size: 18px;
+}
+
+nav ul {
+    display: flex;
+}
+
+.nav-items li {
+    list-style: none;
+    margin-left: 100px;
+}
+
+header {
+    background-color: #f4d4d5;
+    color: #403930;
+    height: 280px;
+    text-align: left;
+    font-family: 'Arial', 'Helvetica Neuel', 'Helvetica', 'sans-serif';
+    margin-bottom: 0px;
+    font-size: 20px;
+    padding: 50px;
+}
+
+.button {
+    background-color: #4E5E80;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin-top: 10px;
+  }
+  .button2 {background-color: #FF7999;}
+  .button3 {background-color: #FF7999;}
+
+section {
+    background-color: #FF7999;
+    color: #403930;
+    text-align: left;
+    font-family: 'Arial', 'Helvetica Neuel', 'Helvetica', 'sans-serif';
+    font-size: 18px;
+    height: 500px;
+    width: 1810px;
+    float: none;
+    margin-right: 10px;
+    margin-bottom: 0px;
+    padding-top: 15px;
+    padding: 40px;
+}
+
+.Aboutme {
+    background-color: #f4d4d5;
+    color: #403930;
+}
+footer {
+    background-color: #FF7999;
+    color: #403930;
+    text-align: left;
+    font-family: 'Arial', 'Helvetica Neuel', 'Helvetica', 'sans-serif';
+    margin-top: 10px;
+    font-size: 20px;
+    padding: 40px;
+}
